@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Genetic Foresight",
+        "role": "Software Engineering intern",
+        "location": "Berkeley, CA",
+        "description": ["Developing a Laravel based application to help clinicians prescribe personalized medication to patients.",
+         "Working on frontend with JavaScript, Bootstrap, jQuery and maintaining MySQL database.",
+        "Deploying and managing applications on AWS Elastic Beanstalk and RDS."],
+        "date": "09/2017 - now",
+        "image": "assets/images/experiences/geneticforesight.png",
+        "site": "http://www.geneticforesight.com/"
+    },
+    {
+        "name": "GoFind.ai",
+        "role": "Software Engineering intern",
+        "location": "Berkeley, CA",
+        "description": ["Built an Image Search Engine for shopping using Machine Learning and Computer Vision.",
+        "Performed analysis on Convolutional Neural Networks and Multi-Object Recognition algorithm.",
+        "Successfully implemented the algorithms with TensorFlow, Darknet, OpenCV using C++/C and Python and achieved an accuracy of 90%."],
+        "date": "05/2016 - 08/2016",
+        "image": "assets/images/experiences/gofind.png",
+        "site": "http://www.gofind.ai/"
+    }
+]

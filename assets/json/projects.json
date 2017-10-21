@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Neighborhood Map",
+        "description": ["Developed a web application featuring a neighborhood map with JavaScript that integrated Google Maps and Places API to enable search function; Built with Knockout.js frameworks and Bootstrap."],
+        "date": "04/2017",
+        "image": "assets/images/projects/neighbor.png",
+        "source": "https://github.com/tiechengsu/Neighborhood-Map",
+        "site": "https://tiechengsu.github.io/Neighborhood-Map/"
+    },
+    {
+        "name": "NBA Player Database",
+        "description": ["Developed a web app where users can view and buy NBA players.",
+            "Integrated MySQL database to authenticate user and store data.",
+            "Built with PHP at the backend and JavaScript, Bootstrap, jQuery at the frontend."],
+        "date": "03/2017-04/2017",
+        "image": "assets/images/projects/nba.png",
+        "source": "https://github.com/tiechengsu/NBA-Player-Database"
+    },
+    {
+        "name": "Popular Movies App",
+        "description": ["Built an android app to allow users to discover popular and high rated movies.",
+        "Fetched data from themoviedb.org API to allow users read movie details and watch trailers.",
+        "Designed local SQLite database to enable offline features."],
+        "date": "03/2017",
+        "image": "assets/images/projects/movie.png",
+        "source": "https://github.com/tiechengsu/Popular-Movies-App"
+    },
+    {
+        "name": "Reddit comments big data analysis",
+        "description": ["Deployed Hadoop on AWS EC2.",
+        "Implemented Hadoop Streaming program in Python for MapReduce on AWS EMR"],
+        "date": "02/2017",
+        "image": "assets/images/projects/mapreduce2.png",
+        "source": "https://github.com/tiechengsu/Intro-Hadoop-MapReduce",
+        "poster": "assets/pdf/Poster.pdf"
+    },
+    {
+        "name": "Frogger game",
+        "description": ["Developed a classic arcade game with JavaScript.",
+        "Designed and implemented User interface with Bootstrap, jQuery and HTML5 Canvas API."],
+        "date": "02/2017",
+        "image": "assets/images/projects/arcade.png",
+        "source": "https://github.com/tiechengsu/frontend-nanodegree-arcade-game",
+        "site": "https://tiechengsu.github.io/frontend-nanodegree-arcade-game/"
+    },
+    {
+        "name": "Face Recognition in the Wild",
+        "description": ["Developed a face recognition algorithm in Matlab with SIFT as feature; Implemented GMM, SVM to classify face image achieving 85% accuracy in 2k image database."],
+        "date": "03/2016-05/2016",
+        "image": "assets/images/projects/face2.png",
+        "source": "https://github.com/tiechengsu/mv",
+        "slide": "assets/pdf/slides.pdf",
+        "paper": "assets/pdf/MV.pdf"
+    },
+    {
+        "name": "Predicting Yelp Ratings Based on Social Network",
+        "description": ["Implemented collaborative filtering algorithm in Python.",
+        "Revised the algorithm by rounding and introducing friends’ influence."],
+        "date": "03/2016-05/2016",
+        "image": "assets/images/projects/2.jpg",
+        "source": "https://github.com/tiechengsu/network",
+        "slide": "assets/pdf/yelp_rating.pptx",
+        "paper": "assets/pdf/yelp_rating.pdf"
+    }
+]
